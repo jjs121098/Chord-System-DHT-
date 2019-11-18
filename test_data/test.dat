@@ -1,0 +1,18 @@
+init 5
+newpeer 4
+newpeer 9
+newpeer 11
+newpeer 14
+newpeer 18
+newpeer 28
+newpeer 20
+newpeer 21
+removepeer 28
+removepeer 0
+store THIS IS A TEST
+store Markus Hagenbuchner
+store CSCI319
+print 12
+delete THIS IS A TEST 
+print 12 
+
